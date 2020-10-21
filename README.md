@@ -3,7 +3,7 @@ Set of my certifications
 
 
  - Coursera
-  - Google
-  - IBM
+   - Google
+   - IBM
  - DataCamp
  - Udemy
