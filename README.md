@@ -7,3 +7,4 @@ Set of my certifications
    - IBM
  - DataCamp
  - Udemy
+ - Amazon Web Services (AWS)
