@@ -1,5 +1,5 @@
 # Certifications
-Set of my certifications
+Set of my certifications: 
 
 
  - Coursera
@@ -8,3 +8,5 @@ Set of my certifications
  - DataCamp
  - Udemy
  - Amazon Web Services (AWS)
+ - Oracle Cloud Infrastructure
+    - OCI AI Foundations Associate (2025)
