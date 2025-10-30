@@ -1,12 +1,33 @@
 # Certifications
-Set of my certifications: 
-
+Collection of my certificates: 
 
  - Coursera
    - Google
-   - IBM
+      - Crash Course on Python (2020)
+      - Introduction to Git and GitHub (2020)
+      - Using Python to Interact with the Operating System (2020)
+   - IBM 
+     - Data Science Methodology (2020)
+     - Databases and SQL for Data Science (2020)
+     - Python for Data Science and AI (2020)
+     - Tools for Data Science (2020)
+     - What is Data Science? (2020)
  - DataCamp
+    - Foundations of Probability in R (2018)
+    - Introduction to Python (2019)
+    - Advanced Deep Learning with Keras (2020)
+    - Big Data Fundamentals with PySpark (2020)
+    - Building Recommendation Engines with PySpark (2020)
+    - Cleaning Data with PySpark (2020)
+    - Feature Engineering with PySpark (2020)
+    - Image Processing with Keras in Python (2020)
+    - Introduction to PySpark (2020)
+    - Machine Learning with PySpark (2020)
  - Udemy
+    - Itroduction To Python Programming (2020)
  - Amazon Web Services (AWS)
+    - AWS Academy Cloud Architecting (2020)
+    - Machine Learning Learning Plan (2025)
  - Oracle Cloud Infrastructure
     - OCI AI Foundations Associate (2025)
+    - OCI Generative AI Professional (2025)
