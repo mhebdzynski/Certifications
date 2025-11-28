@@ -31,3 +31,7 @@ Collection of my certificates:
  - Oracle Cloud Infrastructure
     - OCI AI Foundations Associate (2025)
     - OCI Generative AI Professional (2025)
+ - HackerRank
+   - SQL - Basic (2025)
+   - SQL - Intermediate (2025)
+   - SQL - Advanced (2025)
